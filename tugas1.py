@@ -1,4 +1,4 @@
-secret_word = "house"
+secret_word = "home"
 guessed_letters = []
 finished = False
 
